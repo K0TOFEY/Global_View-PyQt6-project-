@@ -1,0 +1,1 @@
+# Global_View-PyQt6-project-
